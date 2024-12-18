@@ -11,6 +11,8 @@ We actively welcome your pull requests.
 4. Ensure the test suite passes.
 5. Make sure your code lints.
 6. If you haven't already, complete the Contributor License Agreement ("CLA").
+7. Ensure that the pull request has been reviewed and approved by the code owners listed in the `.github/CODEOWNERS` file.
+8. Verify that the changes do not introduce any issues or conflicts with the existing codebase.
 
 ## Contributor License Agreement ("CLA")
 In order to accept your pull request, we need you to submit a CLA. You only need

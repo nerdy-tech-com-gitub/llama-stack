@@ -437,3 +437,13 @@ python -m llama_stack.apis.safety.client localhost 5000
 ```
 
 You can find more example scripts with client SDKs to talk with the Llama Stack server in our [llama-stack-apps](https://github.com/meta-llama/llama-stack-apps/tree/main/examples) repo.
+
+## Pull Request Review and Approval
+
+To ensure that the pull request has been reviewed and approved by the code owners listed in the `.github/CODEOWNERS` file, follow these steps:
+
+1. Review the changes in the pull request to ensure they meet the project's standards and requirements.
+2. Ensure that the pull request has been reviewed and approved by the code owners listed in the `.github/CODEOWNERS` file.
+3. Verify that the changes do not introduce any issues or conflicts with the existing codebase.
+4. Ensure that the pull request passes all tests and checks, as specified in the `CONTRIBUTING.md` file.
+5. If everything looks good, merge the pull request into the `main` branch.
